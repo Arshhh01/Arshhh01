@@ -41,7 +41,7 @@ A framework for catching discrepancies when the same report exists on two platfo
 **[smart-checkout-detector](https://github.com/Arshhh01/smart-checkout-detector)** · [live dashboard](https://smart-checkout-detector.vercel.app)
 Real-time theft detection for self-checkout lanes — YOLOv8 + ByteTrack over webcam video, FastAPI/WebSocket backend, React dashboard with severity-tiered alerts, cleared-item tracking, and a session summary report. Deployed on Render (backend) and Vercel (frontend).
 
-**[heroes-and-villains](https://github.com/Arshhh01/heroes-and-villains)**
+**[heroes-and-villains](https://github.com/Arshhh01/Heroes_and_Villains)**
 A Street Fighter–style fighting game built in Python with Pygame.
 
 <br>
