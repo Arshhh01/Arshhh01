@@ -5,7 +5,7 @@ Data Analyst with hands-on experience in enterprise data warehouse migration, SQ
 I work at the intersection of large-scale data migration, SQL performance tuning, and BI dashboard reliability and moving legacy data warehouses to modern cloud platforms without breaking the reports built on top of them.
 
 <br>
-Skills
+# Skills
 
 ## Data & analytics
 
@@ -52,6 +52,7 @@ A Street Fighter–style fighting game built in Python with Pygame.
 
 ![Open to work](https://img.shields.io/badge/Open%20to-full--time%20%7C%20contract%20%7C%20internship-2f8a43?style=flat-square)
 <br>
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2b6cb0?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
