@@ -5,9 +5,9 @@ Data Analyst with hands-on experience in enterprise data warehouse migration, SQ
 I work at the intersection of large-scale data migration, SQL performance tuning, and BI dashboard reliability and moving legacy data warehouses to modern cloud platforms without breaking the reports built on top of them.
 
 <br>
-**Skills**
+Skills
 
-# Data & analytics**
+Data & analytics
 
 ![SQL](https://img.shields.io/badge/SQL-2b6cb0?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2b6cb0?style=flat-square&logo=python&logoColor=white)
@@ -19,7 +19,7 @@ I work at the intersection of large-scale data migration, SQL performance tuning
 ![dbt](https://img.shields.io/badge/dbt-2b6cb0?style=flat-square&logo=dbt&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-2b6cb0?style=flat-square&logo=amazonaws&logoColor=white)
 
-# Software & applied ML**
+Software & applied ML
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-2b6cb0?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-2b6cb0?style=flat-square&logo=react&logoColor=white)
@@ -30,7 +30,7 @@ I work at the intersection of large-scale data migration, SQL performance tuning
 ![Render](https://img.shields.io/badge/Render-2b6cb0?style=flat-square&logo=render&logoColor=white)
 
 <br>
-# Projects
+Projects
 
 **[sql-dialect-migration-toolkit](https://github.com/Arshhh01/sql-dialect-migration-toolkit)**
 Patterns and a linting script for migrating legacy Teradata SQL to Amazon Redshift — function differences, NULL handling, `QUALIFY` rewrites, collation, and timezone casting. Includes a script that scans a `.sql` codebase and flags lines likely to break on the target platform.
@@ -45,14 +45,14 @@ Real-time theft detection for self-checkout lanes — YOLOv8 + ByteTrack over we
 A Street Fighter–style fighting game built in Python with Pygame.
 
 <br>
-# Experience & availability
+Experience & availability
 
 **Data Analyst** — Audacy · large-scale SQL/data warehouse migration and BI reporting
 **M.S. Computer Science, Data Intelligence** — Clark University · degree requirements complete Dec 2026
 
 ![Open to work](https://img.shields.io/badge/Open%20to-full--time%20%7C%20contract%20%7C%20internship-2f8a43?style=flat-square)
 <br>
-## Contact
+Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2b6cb0?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-2b6cb0?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
