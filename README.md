@@ -32,16 +32,16 @@ I work at the intersection of large-scale data migration, SQL performance tuning
 <br>
 ## Projects
 
-**[sql-dialect-migration-toolkit](https://github.com/YOUR-USERNAME/sql-dialect-migration-toolkit)**
+**[sql-dialect-migration-toolkit](https://github.com/Arshhh01/sql-dialect-migration-toolkit)**
 Patterns and a linting script for migrating legacy Teradata SQL to Amazon Redshift — function differences, NULL handling, `QUALIFY` rewrites, collation, and timezone casting. Includes a script that scans a `.sql` codebase and flags lines likely to break on the target platform.
 
-**[bi-dashboard-reconciliation](https://github.com/YOUR-USERNAME/bi-dashboard-reconciliation)**
+**[bi-dashboard-reconciliation](https://github.com/Arshhh01/bi-dashboard-reconciliation)**
 A framework for catching discrepancies when the same report exists on two platforms during a migration — row count drift, date range mismatches, schema drift, and per-row value mismatches. Ships with a runnable script and an HTML report generator.
 
-**[smart-checkout-detector](https://github.com/YOUR-USERNAME/smart-checkout-detector)** · [live dashboard](https://smart-checkout-detector.vercel.app)
+**[smart-checkout-detector](https://github.com/Arshhh01/smart-checkout-detector)** · [live dashboard](https://smart-checkout-detector.vercel.app)
 Real-time theft detection for self-checkout lanes — YOLOv8 + ByteTrack over webcam video, FastAPI/WebSocket backend, React dashboard with severity-tiered alerts, cleared-item tracking, and a session summary report. Deployed on Render (backend) and Vercel (frontend).
 
-**[heroes-and-villains](https://github.com/YOUR-USERNAME/heroes-and-villains)**
+**[heroes-and-villains](https://github.com/Arshhh01/heroes-and-villains)**
 A Street Fighter–style fighting game built in Python with Pygame.
 
 <br>
