@@ -54,7 +54,6 @@ A Street Fighter–style fighting game built in Python with Pygame.
 **M.S. Computer Science, Data Intelligence** — Clark University · degree requirements complete Dec 2026
 
 ![Open to work](https://img.shields.io/badge/Open%20to-full--time%20%7C%20contract%20%7C%20internship-2f8a43?style=flat-square)
-
 <br>
 
 ## Contact
