@@ -5,7 +5,6 @@ Data Analyst with hands-on experience in enterprise data warehouse migration, SQ
 I work at the intersection of large-scale data migration, SQL performance tuning, and BI dashboard reliability — moving legacy data warehouses to modern cloud platforms without breaking the reports built on top of them.
 
 <br>
-
 ## Skills
 
 **Data & analytics**
@@ -31,7 +30,6 @@ I work at the intersection of large-scale data migration, SQL performance tuning
 ![Render](https://img.shields.io/badge/Render-2b6cb0?style=flat-square&logo=render&logoColor=white)
 
 <br>
-
 ## Projects
 
 **[sql-dialect-migration-toolkit](https://github.com/YOUR-USERNAME/sql-dialect-migration-toolkit)**
