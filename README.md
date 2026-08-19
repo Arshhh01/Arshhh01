@@ -2,7 +2,7 @@
 
 Data Analyst with hands-on experience in enterprise data warehouse migration, SQL, and BI reporting. Currently completing an M.S. in Computer Science (Data Intelligence) at Clark University.
 
-I work at the intersection of large-scale data migration, SQL performance tuning, and BI dashboard reliability — moving legacy data warehouses to modern cloud platforms without breaking the reports built on top of them.
+I work at the intersection of large-scale data migration, SQL performance tuning, and BI dashboard reliability and moving legacy data warehouses to modern cloud platforms without breaking the reports built on top of them.
 
 <br>
 ## Skills
