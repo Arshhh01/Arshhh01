@@ -45,7 +45,6 @@ Real-time theft detection for self-checkout lanes — YOLOv8 + ByteTrack over we
 A Street Fighter–style fighting game built in Python with Pygame.
 
 <br>
-
 ## Experience & availability
 
 **Data Analyst** — Audacy · large-scale SQL/data warehouse migration and BI reporting
@@ -53,7 +52,6 @@ A Street Fighter–style fighting game built in Python with Pygame.
 
 ![Open to work](https://img.shields.io/badge/Open%20to-full--time%20%7C%20contract%20%7C%20internship-2f8a43?style=flat-square)
 <br>
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2b6cb0?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
