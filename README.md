@@ -48,7 +48,17 @@ A Street Fighter–style fighting game built in Python with Pygame.
 
 <br>
 
+## Experience & availability
+
+**Data Analyst** — Audacy · large-scale SQL/data warehouse migration and BI reporting
+**M.S. Computer Science, Data Intelligence** — Clark University · degree requirements complete Dec 2026
+
+![Open to work](https://img.shields.io/badge/Open%20to-full--time%20%7C%20contract%20%7C%20internship-2f8a43?style=flat-square)
+![Work authorization](https://img.shields.io/badge/US%20work%20authorization-~3%20years%20remaining-2b6cb0?style=flat-square)
+
+<br>
+
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2b6cb0?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsh-shafi)
-[![Email](https://img.shields.io/badge/Email-2b6cb0?style=flat-square&logo=gmail&logoColor=white)](mailto:arshshafi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2b6cb0?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-2b6cb0?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
