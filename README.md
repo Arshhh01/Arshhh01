@@ -5,6 +5,7 @@ Data Analyst with hands-on experience in enterprise data warehouse migration, SQ
 I work at the intersection of large-scale data migration, SQL performance tuning, and BI dashboard reliability and moving legacy data warehouses to modern cloud platforms without breaking the reports built on top of them.
 
 <br>
+
 ## Skills
 
 ## Data & analytics
