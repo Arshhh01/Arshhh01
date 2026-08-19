@@ -30,6 +30,7 @@ I work at the intersection of large-scale data migration, SQL performance tuning
 ![Render](https://img.shields.io/badge/Render-2b6cb0?style=flat-square&logo=render&logoColor=white)
 
 <br>
+
 ## Projects
 
 **[sql-dialect-migration-toolkit](https://github.com/Arshhh01/sql-dialect-migration-toolkit)**
@@ -45,6 +46,7 @@ Real-time theft detection for self-checkout lanes — YOLOv8 + ByteTrack over we
 A Street Fighter–style fighting game built in Python with Pygame.
 
 <br>
+
 ## Experience & availability
 
 **Data Analyst** — Audacy · large-scale SQL/data warehouse migration and BI reporting
