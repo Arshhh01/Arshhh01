@@ -28,7 +28,6 @@ I work at the intersection of large-scale data migration, SQL performance tuning
 ![Pygame](https://img.shields.io/badge/Pygame-2b6cb0?style=flat-square&logo=python&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-2b6cb0?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-2b6cb0?style=flat-square&logo=render&logoColor=white)
-
 <br>
 
 ## Projects
@@ -44,7 +43,6 @@ Real-time theft detection for self-checkout lanes — YOLOv8 + ByteTrack over we
 
 **[heroes-and-villains](https://github.com/Arshhh01/Heroes_and_Villains)**
 A Street Fighter–style fighting game built in Python with Pygame.
-
 <br>
 
 ## Experience & availability
